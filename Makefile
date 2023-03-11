@@ -1,4 +1,4 @@
-IMAGE=gerwazy102/semver-release-action
+IMAGE=MRSessions/semver-release-action
 VERSION?=latest
 
 .PHONY: lint

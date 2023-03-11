@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gerwazy102/semver-release-action/internal/pkg/action"
-	"github.com/gerwazy102/semver-release-action/internal/pkg/enterprise"
+	"github.com/MRSessions/semver-release-action/internal/pkg/action"
+	"github.com/MRSessions/semver-release-action/internal/pkg/enterprise"
 	"github.com/google/go-github/v45/github"
 	"github.com/spf13/cobra"
 )

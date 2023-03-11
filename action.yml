@@ -46,7 +46,7 @@ outputs:
 
 runs:
   using: "docker"
-  image: "docker://gerwazy102/semver-release-action:v1.4.0"
+  image: "docker://MRSessions/semver-release-action:v1.4.0"
   args:
     - ${{ inputs.release_branch }}
     - ${{ inputs.release_strategy }}
